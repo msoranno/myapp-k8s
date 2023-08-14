@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: "msoranno/myapp:lates"
+        image: "msoranno/myapp:latest"
         ports:
         - containerPort: 5000
 

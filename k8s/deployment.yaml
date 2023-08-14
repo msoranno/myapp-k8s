@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: msoranno/myapp:latest
+        image: msoranno/myapp:2.0.1
         imagePullPolicy: Always
         ports:
         - containerPort: 5000
